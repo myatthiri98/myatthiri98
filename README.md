@@ -13,6 +13,9 @@ In my current role as a Mobile Application Developer, I'm responsible for develo
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,nextjs,typescript,react,python,java,go,aws,tailwind,git)](https://skillicons.dev)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myatthiri98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 🌱 Currently Exploring
 
 - 📱 Learning Native Mobile Development
