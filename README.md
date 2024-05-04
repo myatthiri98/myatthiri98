@@ -11,7 +11,7 @@ I'm a dedicated Software Developer based in Myanmar, with a focus on mobile appl
 In my current role as a Mobile Application Developer, I'm responsible for developing and maintaining user-friendly mobile applications that meet the needs and expectations of clients and end-users. I collaborate closely with cross-functional teams to deliver high-quality software solutions that enhance user experiences and drive business growth.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,node,typescript,react,react native,python,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,node,typescript,react,reactnative,python,java)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
