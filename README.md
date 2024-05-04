@@ -2,7 +2,7 @@
 
 Dedicated Software Developer with a passion for creating user-friendly mobile and web applications. Experienced in developing cross-platform apps using JavaScript, TypeScript, React Native and Node.js.
 
-![Myat Thiri Khin's Stats](https://github-readme-stats.vercel.app/api?username=myatthiri98&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Profile views](https://komarev.com/ghpvc/?username=myatthiri98&color=blueviolet)
 
 ## 🚀 About Me
 
