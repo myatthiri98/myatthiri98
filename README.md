@@ -1,34 +1,51 @@
-# Hi, I'm Myat Thiri Khin! 👋
+# 👋 Hi, I'm Myat Thiri Khin!
 
-Dedicated Software Developer with a passion for creating user-friendly mobile and web applications. Experienced in developing cross-platform apps using JavaScript, TypeScript, React Native and Node.js.
+A **dedicated Software Developer** passionate about crafting mobile and web applications that deliver exceptional user experiences. With expertise in **JavaScript**, **TypeScript**, **React Native**, and **Node.js**, I aim to bring innovative solutions to life. 🚀
 
-![Profile views](https://komarev.com/ghpvc/?username=myatthiri98&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=myatthiri98&style=flat-square&color=blueviolet)  
 
-## 🚀 About Me
+---
 
-I'm a dedicated Software Developer based in Myanmar, with a focus on mobile application development. With a keen eye for detail and a drive for excellence, I specialize in crafting intuitive and efficient user interfaces for both mobile and web platforms. My experience includes working with various technologies and frameworks, such as JavaScript, TypeScript, React Native, Node.js, and more.
+## 🌟 My Contributions
 
-In my current role as a Mobile Application Developer, I'm responsible for developing and maintaining user-friendly mobile applications that meet the needs and expectations of clients and end-users. I collaborate closely with cross-functional teams to deliver high-quality software solutions that enhance user experiences and drive business growth.
+📊 **Contribution Streak**  
+[![GitHub Streak](https://streak-stats.demolab.com?user=myatthiri98&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,nextjs,typescript,react,python,java,go,aws,tailwind,git)](https://skillicons.dev)
+📈 **Activity Graph**  
+[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=myatthiri98&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myatthiri98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+## 💼 About Me
 
-## 🌱 Currently Exploring
+🌍 **Based in Myanmar**, I specialize in building cross-platform applications that are efficient, intuitive, and scalable. My journey includes collaborating with teams, exploring new technologies, and ensuring high-quality user interfaces.
 
-- 📱 Learning Native Mobile Development
-  - Exploring the fundamentals of native mobile development for both iOS and Android platforms.
-  - Delving into Swift for iOS development and Kotlin for Android development.
-  - Understanding the principles of mobile UI/UX design and app architecture.
-- 💻 Software Development
-  - Enhancing skills in software development methodologies and best practices.
-  - Exploring design patterns and architectural principles for building scalable and maintainable software solutions.
-  - Gaining proficiency in tools and technologies commonly used in the software development lifecycle.
+🎯 **What I Do**:
+- Develop **React Native** applications for diverse industries.
+- Focus on **user-first designs** and performance optimization.
+- Learn and apply **native mobile development** for iOS and Android.
 
-## 📬 Get in Touch
+📚 **Current Learning Goals**:
+- 📱 Deepening knowledge of **Swift** and **Kotlin** for native app development.
+- 🛠 Mastering **software architecture principles** and **design patterns**.
 
-- Connect with me on [Linkedin](https://www.linkedin.com/in/myat-thiri-khin)
+---
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+## 🛠 My Tech Toolbox
+
+![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,reactnative,nodejs,tailwind,git,aws,python,java,go)
+
+📊 **Language Usage**  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myatthiri98&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 📬 Let’s Connect!
+
+I’m always open to collaborations and new opportunities. Feel free to reach out!
+
+- 🌐 [LinkedIn: Myat Thiri Khin](https://www.linkedin.com/in/myat-thiri-khin)
+
+---
+
+Thanks for visiting my GitHub profile! Don’t forget to ⭐️ a repository if you find it useful, and let’s make awesome things together. 😊
