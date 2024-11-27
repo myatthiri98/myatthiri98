@@ -14,6 +14,16 @@ Let’s build something amazing together!
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=myatthiri98&show_icons=true&count_private=true&hide_title=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
+## 🛠 My Tech Toolbox
+
+![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![React](https://skillicons.dev/icons?i=react) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind)  
+![Git](https://skillicons.dev/icons?i=git) ![AWS](https://skillicons.dev/icons?i=aws) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![Go](https://skillicons.dev/icons?i=go)
+
+
+
+📊 **Language Usage**  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myatthiri98&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## 💼 About Me
@@ -28,19 +38,6 @@ Let’s build something amazing together!
 📚 **Current Learning Goals**:
 - 📱 Deepening knowledge of **Swift** and **Kotlin** for native app development.
 - 🛠 Mastering **software architecture principles** and **design patterns**.
-
----
-
-## 🛠 My Tech Toolbox
-
-![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![React](https://skillicons.dev/icons?i=react) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind)  
-![Git](https://skillicons.dev/icons?i=git) ![AWS](https://skillicons.dev/icons?i=aws) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![Go](https://skillicons.dev/icons?i=go)
-
-![React Native](https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png)
-
-
-📊 **Language Usage**  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myatthiri98&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
