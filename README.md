@@ -10,11 +10,10 @@ Let’s build something amazing together!
 
 ## 🌟 My Contributions
 
-📈 **GitHub Streak**  
-[![GitHub Streak](https://streak-stats.demolab.com?user=myatthiri98&theme=github-dark&hide_border=true)](https://git.io/streak-stats)  
+## 🏆 GitHub Stats
 
-📊 **Activity Graph**  
-[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=myatthiri98&theme=github-dark&hide_border=true)]
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=myatthiri98&show_icons=true&count_private=true&hide_title=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
