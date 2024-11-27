@@ -8,7 +8,6 @@ Let’s build something amazing together!
 
 ---
 
-## 🌟 My Contributions
 
 ## 🏆 GitHub Stats
 
