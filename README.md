@@ -1,29 +1,31 @@
 # 👋 Hi, I'm Myat Thiri Khin!
 
-A **dedicated Software Developer** passionate about crafting mobile and web applications that deliver exceptional user experiences. With expertise in **JavaScript**, **TypeScript**, **React Native**, and **Node.js**, I aim to bring innovative solutions to life. 🚀
+A **dedicated Software Developer** passionate about crafting mobile and web applications that deliver exceptional user experiences. With expertise in **JavaScript**, **TypeScript**, **React Native**, and **Node.js**, I aim to bring innovative solutions to life. 🚀  
 
-![Profile Views](https://komarev.com/ghpvc/?username=myatthiri98&style=flat-square&color=blueviolet)  
+Let’s build something amazing together!  
+
+![Profile Views](https://komarev.com/ghpvc/?username=myatthiri98&style=flat-square&color=blueviolet)
 
 ---
 
 ## 🌟 My Contributions
 
-📊 **Contribution Streak**  
-[![GitHub Streak](https://streak-stats.demolab.com?user=myatthiri98&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+📈 **GitHub Streak**  
+[![GitHub Streak](https://streak-stats.demolab.com?user=myatthiri98&theme=github-dark&hide_border=true)](https://git.io/streak-stats)  
 
-📈 **Activity Graph**  
-[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=myatthiri98&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+📊 **Activity Graph**  
+[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=myatthiri98&theme=github-dark&hide_border=true)]
 
 ---
 
 ## 💼 About Me
 
-🌍 **Based in Myanmar**, I specialize in building cross-platform applications that are efficient, intuitive, and scalable. My journey includes collaborating with teams, exploring new technologies, and ensuring high-quality user interfaces.
+🌍 **Based in Myanmar**, I specialize in building cross-platform applications that are efficient, intuitive, and scalable. My journey includes collaborating with teams, exploring new technologies, and ensuring high-quality user interfaces.  
 
 🎯 **What I Do**:
 - Develop **React Native** applications for diverse industries.
 - Focus on **user-first designs** and performance optimization.
-- Learn and apply **native mobile development** for iOS and Android.
+- Learn and apply **native mobile development** for iOS and Android.  
 
 📚 **Current Learning Goals**:
 - 📱 Deepening knowledge of **Swift** and **Kotlin** for native app development.
@@ -42,10 +44,10 @@ A **dedicated Software Developer** passionate about crafting mobile and web appl
 
 ## 📬 Let’s Connect!
 
-I’m always open to collaborations and new opportunities. Feel free to reach out!
+I’m always open to collaborations and new opportunities. Feel free to reach out!  
 
-- 🌐 [LinkedIn: Myat Thiri Khin](https://www.linkedin.com/in/myat-thiri-khin)
+- 🌐 [LinkedIn: Myat Thiri Khin](https://www.linkedin.com/in/myat-thiri-khin)  
 
 ---
 
-Thanks for visiting my GitHub profile! Don’t forget to ⭐️ a repository if you find it useful, and let’s make awesome things together. 😊
+⭐️ Thanks for visiting my GitHub profile! Let’s make awesome things together. 😊
