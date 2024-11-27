@@ -35,7 +35,11 @@ Let’s build something amazing together!
 
 ## 🛠 My Tech Toolbox
 
-![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,reactnative,nodejs,tailwind,git,aws,python,java,go)
+![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![React](https://skillicons.dev/icons?i=react) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind)  
+![Git](https://skillicons.dev/icons?i=git) ![AWS](https://skillicons.dev/icons?i=aws) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![Go](https://skillicons.dev/icons?i=go)
+
+![React Native](https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png)
+
 
 📊 **Language Usage**  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myatthiri98&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
