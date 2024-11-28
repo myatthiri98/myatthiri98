@@ -11,14 +11,14 @@ Let’s build something amazing together!
 ## 🏆 GitHub Stats  
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=myatthiri98&show_icons=true&count_private=true&hide_title=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=myatthiri98&theme=radical&hide_border=true)](https://git.io/streak-stats)  
 
 ---
 
 ## 📊 Language Usage  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myatthiri98&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=myatthiri98&theme=radical)  
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=myatthiri98&theme=radical)  
 
 ---
 
@@ -57,6 +57,7 @@ Let’s build something amazing together!
 I’m always open to collaborations and new opportunities. Feel free to reach out!  
 
 - 🌐 [LinkedIn: Myat Thiri Khin](https://www.linkedin.com/in/myat-thiri-khin)  
+
 ---
 
 ⭐️ Thanks for visiting my GitHub profile! Let’s make awesome things together. 😊  
