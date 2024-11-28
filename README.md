@@ -4,7 +4,7 @@ A **dedicated Software Developer** passionate about creating mobile and web appl
 
 Let’s build something amazing together!  
 
-![Profile Views](https://komarev.com/ghpvc/?username=myatthiri98&style=flat-square&color=blueviolet)  
+![Profile Views](https://komarev.com/ghpvc/?username=myatthiri98&style=flat-square&color=blueviolet)
 
 ---
 
@@ -17,8 +17,6 @@ Let’s build something amazing together!
 ## 📊 Language Usage  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myatthiri98&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=myatthiri98&theme=radical)  
 
 ---
 
