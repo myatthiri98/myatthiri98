@@ -22,18 +22,11 @@ Let’s build something amazing together!
 
 ---
 
-## 🛠 My Tech Toolbox  
+## 🛠 My Tech Toolbox
 
-![JavaScript](https://skillicons.dev/icons?i=javascript)  
-![TypeScript](https://skillicons.dev/icons?i=typescript)  
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Node.js](https://skillicons.dev/icons?i=nodejs)  
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind)  
-![Git](https://skillicons.dev/icons?i=git)  
-![AWS](https://skillicons.dev/icons?i=aws)  
-![Python](https://skillicons.dev/icons?i=python)  
-![Java](https://skillicons.dev/icons?i=java)  
-![Go](https://skillicons.dev/icons?i=go)
+![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![React](https://skillicons.dev/icons?i=react) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind)  
+![Git](https://skillicons.dev/icons?i=git) ![AWS](https://skillicons.dev/icons?i=aws) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![Go](https://skillicons.dev/icons?i=go)
+
 
 ---
 
