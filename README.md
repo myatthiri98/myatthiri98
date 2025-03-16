@@ -4,8 +4,6 @@ A **dedicated Software Developer** passionate about creating mobile and web appl
 
 Let’s build something amazing together!  
 
-![Profile Views](https://komarev.com/ghpvc/?username=myatthiri98&style=flat-square&color=blueviolet)
-
 ---
 
 ## 🏆 GitHub Stats  
